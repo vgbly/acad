@@ -8,6 +8,11 @@
 		"id": "X2",
 		"word": "Distance Between Two Points Formula?",
 		"desc": "<img src='./img/dist.PNG' width='400' hight='auto'>"
+	},
+	{
+		"id": "X3",
+		"word": "What is the difference between rational and irrational numbers?",
+		"desc": "A rational number is the one which can be represented in the form of P/Q where P and Q are integers and Q ≠ 0. But an irrational number cannot be written in the form of simple fractions. </br><img src='./img/num.svg' width='400' hight='auto'>"
 	}
 	
 ]
