@@ -1,0 +1,21 @@
+[
+	{
+		"root": "Y",
+		"patternid": "Y",
+		"sourceid": "sexp",
+		"source": "Self",
+		"topic": "Exponents & Radical",
+		"tilename": "Exponents & Radical",
+		"tileclass": "rcorners1"
+	},
+	{
+		"root": "Y",
+		"patternid": "X",
+		"sourceid": "slinear",
+		"source": "Self",
+		"topic": "Linear Equations",
+		"tilename": "Linear Equations",
+		"tileclass": "rcorners1"
+	}
+	
+]

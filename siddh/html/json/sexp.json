@@ -1,0 +1,143 @@
+[
+	{
+		"id": "Y1",
+		"word": "radical expression",
+		"desc": "<img src='./img/radical.png' width='400' hight='auto'> "
+	},
+	{
+		"id": "Y2",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>1</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>1</mn></msqrt><mo>=</mo><mn>1</mn></math> "
+	},
+	{
+		"id": "Y3",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>4</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>4</mn></msqrt><mo>=</mo><mn>2</mn></math> "
+	},
+	{
+		"id": "Y4",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>9</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>9</mn></msqrt><mo>=</mo><mn>3</mn></math> "
+	},
+	{
+		"id": "Y5",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>16</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>16</mn></msqrt><mo>=</mo><mn>4</mn></math> "
+	},
+	{
+		"id": "Y6",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>25</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>25</mn></msqrt><mo>=</mo><mn>5</mn></math> "
+	},
+	{
+		"id": "Y7",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>49</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>49</mn></msqrt><mo>=</mo><mn>7</mn></math> "
+	},
+	{
+		"id": "Y8",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>64</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>64</mn></msqrt><mo>=</mo><mn>8</mn></math> "
+	},
+	{
+		"id": "Y9",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>81</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>81</mn></msqrt><mo>=</mo><mn>9</mn></math> "
+	},
+	{
+		"id": "Y10",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>100</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>100</mn></msqrt><mo>=</mo><mn>10</mn></math> "
+	},
+	{
+		"id": "Y11",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>121</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>121</mn></msqrt><mo>=</mo><mn>11</mn></math> "
+	},
+	{
+		"id": "Y12",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>144</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>144</mn></msqrt><mo>=</mo><mn>12</mn></math> "
+	},
+	{
+		"id": "Y13",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>225</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>225</mn></msqrt><mo>=</mo><mn>15</mn></math> "
+	},
+	{
+		"id": "Y14",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>400</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>400</mn></msqrt><mo>=</mo><mn>20</mn></math> "
+	},
+	{
+		"id": "Y15",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>625</mn></msqrt></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>625</mn></msqrt><mo>=</mo><mn>25</mn></math> "
+	},
+	{
+		"id": "Y16",
+		"word": "Is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>a</mi><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup></math> ?",
+		"desc": "No, because <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>a</mi></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>+</mo><mi>a</mi></math> </br> where as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>a</mi><mn>2</mn></msup></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>&#xd7;</mo><mi>a</mi></math> </br> for example <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>&#xd7;</mo><mn>5</mn><mo>=</mo><mn>10</mn></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>5</mn><mn>2</mn></msup><mo>=</mo><mn>25</mn></math> "
+	},
+	{
+		"id": "Y17",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>6</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>6</mn><mn>2</mn></msup><mo>=</mo><mn>36</mn></math> "
+	},
+	{
+		"id": "Y18",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>7</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>7</mn><mn>2</mn></msup><mo>=</mo><mn>49</mn></math> "
+	},
+	{
+		"id": "Y19",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>8</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>8</mn><mn>2</mn></msup><mo>=</mo><mn>64</mn></math> "
+	},
+	{
+		"id": "Y20",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>9</mn><mn>2</mn></msup><mo>=</mo><mn>81</mn></math> "
+	},
+	{
+		"id": "Y21",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn><mn>2</mn></msup><mo>=</mo><mn>100</mn></math> "
+	},
+	{
+		"id": "Y22",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>11</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>11</mn><mn>2</mn></msup><mo>=</mo><mn>121</mn></math> "
+	},
+	{
+		"id": "Y23",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>12</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><mn>144</mn></math> "
+	},
+	{
+		"id": "Y24",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>13</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>13</mn><mn>2</mn></msup><mo>=</mo><mn>169</mn></math> "
+	},
+	{
+		"id": "Y25",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>15</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>15</mn><mn>2</mn></msup><mo>=</mo><mn>225</mn></math> "
+	},
+	{
+		"id": "Y26",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn><mn>2</mn></msup><mo>=</mo><mn>400</mn></math> "
+	},
+	{
+		"id": "Y27",
+		"word": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>25</mn><mn>2</mn></msup></math>",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>25</mn><mn>2</mn></msup><mo>=</mo><mn>625</mn></math> "
+	},
+	{
+		"id": "Y28",
+		"word": "What is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mrow><mo>-</mo><mn>1</mn></mrow></msqrt></math> ?",
+		"desc": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mrow><mo>-</mo><mn>1</mn></mrow></msqrt><mo>=</mo><mi>i</mi></math>            which is called <b>imaginary numbers</b> "
+	}
+	
+]
